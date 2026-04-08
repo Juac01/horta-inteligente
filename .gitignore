@@ -1,0 +1,21 @@
+# Ignorar arquivo de senha
+db.properties
+
+# Ignorar CSV de teste
+teste.csv
+
+# Build do NetBeans
+Instaladores/
+build/
+dist/
+nbproject/private/
+
+# Java
+*.class
+*.jar
+
+# Logs
+*.log
+
+# Sistema (Mac)
+.DS_Store
